@@ -8,8 +8,6 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Simple and flexible MailChimp integration for WooCommerce.
-
 == Description ==
 
 WooCommerce MailChimp Plugin provides MailChimp integration for WooCommerce.
@@ -60,8 +58,6 @@ For a small fee you can get the full version with no limitation at: <a href="htt
 - WooCommerce Payment Gateway per product:  <a href="http://wordpress.org/plugins/woocommerce-product-payments/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-product-payments/" target="_blank">Free version</a> - <a href="http://www.dreamfoxmedia.nl/shop/woocommerce-payment-gateway-per-product-pro/" target="_blank">PRO Version</a>
 - WooCommerce Delivery date: <a href="http://wordpress.org/plugins/woocommerce-delivery-date/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-delivery-date" target="_blank">Free version</a> - <a href="http://www.dreamfoxmedia.nl/shop/woocommerce-delivery-date-pro/" target="_blank">PRO Version</a>
 - WooCommerce MailChimp Plugin: <a href="http://wordpress.org/plugins/woocommerce-mailchimp-plugin/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-mailchimp-plugin" target="_blank">Free version</a> - <a href="http://www.dreamfoxmedia.nl/shop/woocommerce-mailchimp-plugin-pro" target="_blank">PRO Version</a> 
-
-
 
 ### Feedback ###
 
