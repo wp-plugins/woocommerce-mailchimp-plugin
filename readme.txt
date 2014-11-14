@@ -4,27 +4,81 @@ Donate link: http://www.dreamfoxmedia.nl
 Tags: woocommerce,mailchimp,groups,email,plugin,free
 Requires at least: 3.0.1
 Tested up to: 3.8.1
-Stable tag: 1.0.2
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin for woocommerce lets you select a number of days, and shopper can only choose delivery date after the number of days. 
+Simple and flexible MailChimp integration for WooCommerce.
 
 == Description ==
 
-This plugin will allow the customer to choose an order delivery date on the checkout page. The customer can choose any delivery date that is after the current date.
+WooCommerce MailChimp Plugin provides MailChimp integration for WooCommerce.
 
-In woocommerce settings you can also set a number of days. If you set it to 10 days, then customers can only choose delivery dates 10 days after the current day. This is helpfull if you make handmade products that will take some days to make.
+Finally an WooCommerce Mailchimp plugin that can connect Mailchimp Groups to WooCommerce Categories. Its even possible to connect a MailChimp Group to a individual product. This can be done quietly or based on the user's consent with several opt-in settings that support international opt-in laws.
 
-The delivery date chosen by the customer will be visible to the site administrator while viewing the order under the "Custom Fields" section.
+Ever wanted to email customers that bought products from one category only, or customers that have bought a specific product. Finally now you can. You don't have to email your complete customerlist anymore.
 
-You can select 2 categorie where the plugin will be active.
+### Features ###
 
-This plugin allows you to improve your customer service by delivering the order on the customer's chosen date.
+#### WooCommerce Subscribe Selection ####
 
-Languages included:
-- English
-- Dutch
+- Subscribe customers to MailChimp with customer confirmation
+- Subscribe customers to MailChimp without customer confirmation (pro version)
+
+#### Works with MailChimp Interest Groups ####
+
+- Set interest groups by WooCommerce Category
+- Set interest groups by individual products (pro version)
+
+#### Opt-In Settings ####
+
+- MailChimp double opt-in support (control whether a double opt-in email is sent to the customer)
+- Disable double opt-in (pro version)
+
+#### Translation Support ####
+
+- i18n ready with included woocommerce-mailchimp-plugin.pot file
+- WPML support via wpml-config.xml
+
+**Included Translations:**
+
+- English (default)
+- No other translations yet.
+
+Thanks in advance for your help on any translation efforts!
+
+#### Multisite ####
+
+- All features should work for each blog in multisite installations.
+
+### Feedback ###
+
+Feedback is welcome!
+
+If you need help, have problems, want to leave feedback or want to provide constructive criticism, please use our contactform at [Dreamfox Media](http://www.dreamfoxmedia.nl).
+
+#### Twitter ####
+
+[Follow @dreamfoxmedia on Twitter](http://twitter.com/dreamfoxmedia) for updates on this and other plugins.
+
+#### Facebook ####
+
+[Follow Dreamfox Media on Facebook](https://www.facebook.com/dreamfoxmedia) for updates on this and other plugins.
+
+== Installation ==
+
+1. Upload or extract the `woocommerce-mailchimp-plugin` folder to your site's `/wp-content/plugins/` directory. You can also use the *Add new* option found in the *Plugins* menu in WordPress.  
+2. Enable the plugin from the *Plugins* menu in WordPress.
+
+= Usage =
+
+1. Go to WooCommerce > Mailchimp Plugin
+2. First, enable the plugin and set your MailChimp API Key and hit save.
+3. Select whether you want customers to recieve a double opt-in email to confirm subscribed to your MailChimp list.
+4. Next connect the MailChimp Groups to the WooCommerce Categories.
+5. Connect MailChimp Groups to individal products (pro version)
+5. That's it, now customers who purchase products from your WooCommerce store will automatically be subscribed to the selected group in MailChimp!
+
 
 **Full version (19,95):**
 
@@ -47,30 +101,7 @@ For a small fee you can get the full version with no limitation at: <a href="htt
 -Shipping per product:  <a href="http://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/" target="_blank">Free version</a> - <a href="http://www.dreamfox.nl/shop/shipping-gateway-per-product-woocommerce/" target="_blank">Full version</a><br>
 -Payment per product:  <a href="http://wordpress.org/plugins/woocommerce-product-payments/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-product-payments/" target="_blank">Free version</a> - <a href="http://www.dreamfox.nl/shop/payment-gateway-per-product-woocommerce/" target="_blank">Full version</a>
 
-== Installation ==
 
-= For automatic installation: =
-
-The simplest way to install is to click on 'Plugins' then 'Add' and type 'Woocommerce Delivery Date' in the search field.
-
-= For manual installation 1: =
-
-1. Login to your website and go to the Plugins section of your admin panel.
-1. Click the Add New button.
-1. Under Install Plugins, click the Upload link.
-1. Select the plugin zip file (woocommerce-delivery-date.x.x.x.zip) from your computer then click the Install Now button.
-1. You should see a message stating that the plugin was installed successfully.
-1. Click the Activate Plugin link.
-
-= For manual installation 2: =
-
-1. You should have access to the server where WordPress is installed. If you don't, see your system administrator.
-1. Copy the plugin zip file (woocommerce-delivery-date.x.x.x.zip) up to your server and unzip it somewhere on the file system.
-1. Copy the "woocommerce-product-payments" folder into the /wp-content/plugins directory of your WordPress installation.
-1. Login to your website and go to the Plugins section of your admin panel.
-1. Look for "woocommerce-product-payments" and click Activate.
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently asked questions ==
 
