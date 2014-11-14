@@ -51,8 +51,7 @@ Thanks in advance for your help on any translation efforts!
 
 - All features should work for each blog in multisite installations.
 
-
-**Full version (29,95):**
+#### Full Version ####
 
 **[Woocommerce Delivery Date Full](http://www.dreamfox.nl/shop/woocommerce-delivery-date-v1-0-0/ "Order Delivery Date Pro")** - Version 1.0.0 allows the customer to choose a delivery date on the checkout page. Black-out dates allow the site owner to decide which dates should be made not available for delivery.
 <ol>
@@ -64,15 +63,15 @@ Thanks in advance for your help on any translation efforts!
 <li><strong>Select what weekdays delivery is not possible e.g.: Sunday</strong></li>
 </ol>
 
+#### Full Version Demo ####
 **[View Demo](http://demo.dreamfox.nl/wordpress/product/product-for-delivery-date-plugin-testing/ "View Demo")**
 
 This version is limited in features.
 For a small fee you can get the full version with no limitation at: <a href="http://www.dreamfox.nl/shop/woocommerce-delivery-date-v1-0-0/" target="_blank">www.dreamfox.nl</a>.
 
-<b>other WOOCOMMERCE plugins from Dreamfox:</b><br>
+#### other WOOCOMMERCE plugins from Dreamfox Media: ####
 -Shipping per product:  <a href="http://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/" target="_blank">Free version</a> - <a href="http://www.dreamfox.nl/shop/shipping-gateway-per-product-woocommerce/" target="_blank">Full version</a><br>
 -Payment per product:  <a href="http://wordpress.org/plugins/woocommerce-product-payments/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-product-payments/" target="_blank">Free version</a> - <a href="http://www.dreamfox.nl/shop/payment-gateway-per-product-woocommerce/" target="_blank">Full version</a>
-
 
 ### Feedback ###
 
