@@ -52,26 +52,16 @@ Thanks in advance for your help on any translation efforts!
 - All features should work for each blog in multisite installations.
 
 #### Full Version ####
-
-**[Woocommerce Delivery Date Full](http://www.dreamfox.nl/shop/woocommerce-delivery-date-v1-0-0/ "Order Delivery Date Pro")** - Version 1.0.0 allows the customer to choose a delivery date on the checkout page. Black-out dates allow the site owner to decide which dates should be made not available for delivery.
-<ol>
-<li>Ability to select <strong>unlimited </strong> categories the plugin will be active</li>
-<li><strong>Workingdays</strong>option to count only workingdays (5 days a week)</li>
-<li><strong>Add holiday or black-out dates</strong> to the calendar</li>
-<li><strong>show Delivery Date in Customer Notification Email</strong></li>
-<li>Show 2 months in calendar</li>
-<li><strong>Select what weekdays delivery is not possible e.g.: Sunday</strong></li>
-</ol>
-
-#### Full Version Demo ####
-**[View Demo](http://demo.dreamfox.nl/wordpress/product/product-for-delivery-date-plugin-testing/ "View Demo")**
-
 This version is limited in features.
-For a small fee you can get the full version with no limitation at: <a href="http://www.dreamfox.nl/shop/woocommerce-delivery-date-v1-0-0/" target="_blank">www.dreamfox.nl</a>.
+For a small fee you can get the full version with no limitation at: <a href="http://www.dreamfoxmedia.nl" target="_blank">www.dreamfoxmedia.nl</a>.
 
-#### other WOOCOMMERCE plugins from Dreamfox Media: ####
--Shipping per product:  <a href="http://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/" target="_blank">Free version</a> - <a href="http://www.dreamfox.nl/shop/shipping-gateway-per-product-woocommerce/" target="_blank">Full version</a><br>
--Payment per product:  <a href="http://wordpress.org/plugins/woocommerce-product-payments/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-product-payments/" target="_blank">Free version</a> - <a href="http://www.dreamfox.nl/shop/payment-gateway-per-product-woocommerce/" target="_blank">Full version</a>
+#### other WooCommerceE plugins from Dreamfox Media: ####
+- WooCommerce Shipping Gateway per Product:  <a href="http://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/" target="_blank">Free version</a> - <a href="http://www.dreamfoxmedia.nl/shop/woocommerce-shipping-gateway-per-product-pro/" target="_blank">PRO Version</a><br>
+- WooCommerce Payment Gateway per product:  <a href="http://wordpress.org/plugins/woocommerce-product-payments/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-product-payments/" target="_blank">Free version</a> - <a href="http://www.dreamfoxmedia.nl/shop/woocommerce-payment-gateway-per-product-pro/" target="_blank">PRO Version</a>
+- WooCommerce Delivery date: <a href="http://wordpress.org/plugins/woocommerce-delivery-date/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-delivery-date" target="_blank">Free version</a> - <a href="http://www.dreamfoxmedia.nl/shop/woocommerce-delivery-date-pro/" target="_blank">PRO Version</a>
+- WooCommerce MailChimp Plugin: <a href="http://wordpress.org/plugins/woocommerce-mailchimp-plugin/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-mailchimp-plugin" target="_blank">Free version</a> - <a href="http://www.dreamfoxmedia.nl/shop/woocommerce-mailchimp-plugin-pro" target="_blank">PRO Version</a> 
+
+
 
 ### Feedback ###
 
