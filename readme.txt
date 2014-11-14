@@ -116,10 +116,10 @@ For more information, feel free to visit the official website for this plugin: <
 
 == Screenshots ==
 
-1. wcmp-screenshot1.png
-2. wcmp-screenshot2.png
-3. wcmp-screenshot3.png
-4. wcmp-screenshot4.png
+1. screenshot1.png
+2. screenshot2.png
+3. screenshot3.png
+4. screenshot4.png
 
 == Changelog ==
 
