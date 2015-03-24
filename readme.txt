@@ -4,7 +4,7 @@ Donate link: http://www.dreamfoxmedia.nl
 Tags: woocommerce,mailchimp,groups,email,plugin,free
 Requires at least: 3.0.1
 Tested up to: 4.0.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -107,6 +107,9 @@ For more information, feel free to visit the official website for this plugin: <
 4. screenshot-4.png
 
 == Changelog ==
+
+= 1.0.1 =
+* updated to work woth latest WooCOmmerce version
 
 = 1.0.0 =
 * added on wordpress extensions

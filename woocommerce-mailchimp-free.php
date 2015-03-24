@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Woocommerce Mailchimp
  * Plugin URI: www.dreamfoxmedia.nl 
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author URI: www.dreamfoxmedia.nl
  * Description: Extend Woocommerce plugin to connect with Mailchimp ( Free ).
  * Requires at least: 3.7
