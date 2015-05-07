@@ -108,6 +108,9 @@ For more information, feel free to visit the official website for this plugin: <
 
 == Changelog ==
 
+= 1.0.2 =
+* updated to work with latest WooCommerce version
+
 = 1.0.1 =
 * updated to work woth latest WooCOmmerce version
 
