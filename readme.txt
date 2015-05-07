@@ -3,8 +3,8 @@ Contributors: dreamfox
 Donate link: http://www.dreamfoxmedia.nl
 Tags: woocommerce,mailchimp,groups,email,plugin,free
 Requires at least: 3.0.1
-Tested up to: 4.0.2
-Stable tag: 1.0.1
+Tested up to: 4.4.2
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -53,7 +53,7 @@ Thanks in advance for your help on any translation efforts!
 This version is limited in features.
 For a small fee you can get the full version with no limitation at: <a href="http://www.dreamfoxmedia.nl" target="_blank">www.dreamfoxmedia.nl</a>.
 
-#### other WooCommerceE plugins from Dreamfox Media: ####
+#### other WooCommerce plugins from Dreamfox Media: ####
 - WooCommerce Shipping Gateway per Product:  <a href="http://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/" target="_blank">Free version</a> - <a href="http://www.dreamfoxmedia.nl/shop/woocommerce-shipping-gateway-per-product-pro/" target="_blank">PRO Version</a><br>
 - WooCommerce Payment Gateway per product:  <a href="http://wordpress.org/plugins/woocommerce-product-payments/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-product-payments/" target="_blank">Free version</a> - <a href="http://www.dreamfoxmedia.nl/shop/woocommerce-payment-gateway-per-product-pro/" target="_blank">PRO Version</a>
 - WooCommerce Delivery date: <a href="http://wordpress.org/plugins/woocommerce-delivery-date/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-delivery-date" target="_blank">Free version</a> - <a href="http://www.dreamfoxmedia.nl/shop/woocommerce-delivery-date-pro/" target="_blank">PRO Version</a>
