@@ -4,7 +4,7 @@
  * Plugin URI: www.dreamfoxmedia.nl 
  * Version: 1.0.2
  * Author URI: www.dreamfoxmedia.nl
- * Description: Extend Woocommerce plugin to connect with Mailchimp ( Free ).
+ * Description: Connecting your Mailchimp groups to your WooCommerce categories. You will even be able to connect your Mailchimp group to any of your individual products. This great plugin will help you to stop sending floral discounts to people who ordered kitchen appliances.
  * Requires at least: 3.7
  * Tested up to: 4.2.2
  * @Developer : Anand Rathi ( Softsdev )
