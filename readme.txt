@@ -3,18 +3,18 @@ Contributors: dreamfox
 Donate link: http://www.dreamfoxmedia.nl
 Tags: woocommerce,mailchimp,groups,email,plugin,free
 Requires at least: 3.0.1
-Tested up to: 4.4.2
+Tested up to: 4.2.2
 Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-WooCommerce MailChimp Plugin provides MailChimp integration for WooCommerce.
+Mailchimp is the leading email marketing service that will allow you to send out mass emails to all your customers via your WooCommerce store.
 
-Finally an WooCommerce Mailchimp plugin that can connect Mailchimp Groups to WooCommerce Categories. Its even possible to connect a MailChimp Group to a individual product. This can be done quietly or based on the user's consent with several opt-in settings that support international opt-in laws.
+The creation of WooCommerce Mailchimp Plugin by Dreamfox Media, is considered one of the best plugins for connecting your Mailchimp groups to your WooCommerce categories. You will even be able to connect your Mailchimp group to any of your individual products. This great plugin will help you to stop sending floral discounts to people who ordered kitchen appliances.
 
-Ever wanted to email customers that bought products from one category only, or customers that have bought a specific product. Finally now you can. You don't have to email your complete customerlist anymore.
+No one enjoys spending hundreds of dollars on a great product that is for your kitchen and then constantly getting emails about having huge discounts of various jewelry items. The WooCommerce Mailchimp Plugin will let you to send the right advertisements to the right people.
 
 ### Features ###
 
@@ -54,8 +54,8 @@ This version is limited in features.
 For a small fee you can get the full version with no limitation at: <a href="http://www.dreamfoxmedia.nl" target="_blank">www.dreamfoxmedia.nl</a>.
 
 #### other WooCommerce plugins from Dreamfox Media: ####
-- WooCommerce Shipping Gateway per Product:  <a href="http://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/" target="_blank">Free version</a> - <a href="http://www.dreamfoxmedia.nl/shop/woocommerce-shipping-gateway-per-product-pro/" target="_blank">PRO Version</a><br>
-- WooCommerce Payment Gateway per product:  <a href="http://wordpress.org/plugins/woocommerce-product-payments/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-product-payments/" target="_blank">Free version</a> - <a href="http://www.dreamfoxmedia.nl/shop/woocommerce-payment-gateway-per-product-pro/" target="_blank">PRO Version</a>
+- WC Shipping Gateway per Product:  <a href="http://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-shipping-gateway-per-product/" target="_blank">Free version</a> - <a href="http://www.dreamfoxmedia.nl/shop/woocommerce-shipping-gateway-per-product-pro/" target="_blank">PRO Version</a><br>
+- WC Payment Gateway per product:  <a href="http://wordpress.org/plugins/woocommerce-product-payments/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-product-payments/" target="_blank">Free version</a> - <a href="http://www.dreamfoxmedia.nl/shop/woocommerce-payment-gateway-per-product-pro/" target="_blank">PRO Version</a>
 - WooCommerce Delivery date: <a href="http://wordpress.org/plugins/woocommerce-delivery-date/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-delivery-date" target="_blank">Free version</a> - <a href="http://www.dreamfoxmedia.nl/shop/woocommerce-delivery-date-pro/" target="_blank">PRO Version</a>
 - WooCommerce MailChimp Plugin: <a href="http://wordpress.org/plugins/woocommerce-mailchimp-plugin/" target="_blank">Information</a> - <a href="http://wordpress.org/plugins/woocommerce-mailchimp-plugin" target="_blank">Free version</a> - <a href="http://www.dreamfoxmedia.nl/shop/woocommerce-mailchimp-pro-plugin" target="_blank">PRO Version</a> 
 
