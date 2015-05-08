@@ -6,7 +6,7 @@
  * Author URI: www.dreamfoxmedia.nl
  * Description: Extend Woocommerce plugin to connect with Mailchimp ( Free ).
  * Requires at least: 3.7
- * Tested up to: 4.4.2
+ * Tested up to: 4.2.2
  * @Developer : Anand Rathi ( Softsdev )
  */
 /**
