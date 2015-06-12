@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Woocommerce categories Mailchimp groups plugin
+ * Plugin Name: Woocommerce categories Mailchimp groups
  * Plugin URI: www.dreamfoxmedia.nl 
  * Version: 1.0.2
  * Author URI: www.dreamfoxmedia.nl
