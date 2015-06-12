@@ -1,4 +1,4 @@
-=== Woocommerce Mailchimp Plugin ===
+=== Woocommerce categories Mailchimp groups Plugin ===
 Contributors: dreamfox 
 Donate link: http://www.dreamfoxmedia.nl
 Tags: woocommerce,mailchimp,groups,email,plugin,free
