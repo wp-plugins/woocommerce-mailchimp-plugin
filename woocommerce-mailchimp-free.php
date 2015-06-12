@@ -7,7 +7,7 @@
  * Description: Connecting your Mailchimp groups to your WooCommerce categories. You will even be able to connect your Mailchimp group to any of your individual products. This great plugin will help you to stop sending floral discounts to people who ordered kitchen appliances.
  * Requires at least: 3.7
  * Tested up to: 4.2.2
- * @Developer : Anand Rathi ( Softsdev )
+ * @Developer : Anand Rathi ( Dreamfoxmedia )
  */
 /**
  * Check if WooCommerce is active
